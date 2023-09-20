@@ -7,4 +7,4 @@ I'm a software developer based in Portland, Oregon (USA).
 
 
 ### Dev toolbox
-- https://github.com/vnugent/lexical-examples
+- Facebook Lexical examples: https://lexical-examples.vercel.app/
